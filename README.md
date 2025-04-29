@@ -39,31 +39,33 @@ The project also incorporates **web scraping** to extract live review data, prep
    git clone https://github.com/your-username/SentimentSphere.git
    cd SentimentSphere
 
-[![YouTube Demo](https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/your-demo-link)
+[![YouTube Demo](https://img.shields.io/badge/Watch%20Demo%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/vmguU8wUVBY?feature=shared)
+
+## 📸 Screenshots & Visuals  
 
 <table>
   <tr>
-    <td><img src="1.png" width="300"></td>
-    <td><img src="2.png" width="300"></td>
+    <td><img src="image/1.png" width="300"></td>
+    <td><img src="image/2.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="3.png" width="300"></td>
-    <td><img src="4.png" width="300"></td>
+    <td><img src="image/3.png" width="300"></td>
+    <td><img src="image/4.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="5.png" width="300"></td>
-    <td><img src="6.png" width="300"></td>
+    <td><img src="image/5.png" width="300"></td>
+    <td><img src="image/6.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="7.png" width="300"></td>
-    <td><img src="8.png" width="300"></td>
+    <td><img src="image/7.png" width="300"></td>
+    <td><img src="image/8.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="9.png" width="300"></td>
-    <td><img src="10.png" width="300"></td>
+    <td><img src="image/9.png" width="300"></td>
+    <td><img src="image/10.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="11.png" width="300"></td>
+    <td><img src="image/11.png" width="300"></td>
     <td></td>
   </tr>
 </table>
