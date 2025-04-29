@@ -1,0 +1,2 @@
+# SentimentSphere_MachineLearningProject
+ SentimentSphere is a real-time sentiment classification system designed to analyze customer reviews from e-commerce platforms. Leveraging Logistic Regression, this project processes 3.6 million labeled comments to determine whether feedback is positive or negative—helping businesses decode the voice of the customer automatically.  The project also incorporates web scraping to extract live review data, preprocesses noisy text, and ensures continuous accuracy improvement with a dynamic error detection system.
